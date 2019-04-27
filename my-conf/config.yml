@@ -26,7 +26,7 @@ params:
     - speakers
     - schedule
     - sponsors
-    - partners
+    - tickets
     #- contact
 
   # Titles which you can translate to other languages
@@ -36,14 +36,14 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     sponsors: "Sponsors"
-    partners: "Partners"
-    contact: "Contact"
+    tickets: "Tickets"
+#    contact: "Contact"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
     text: "Register now!"
-    link: "http://register.example.com"
+    link: "#tickets"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   #ForkButton:
