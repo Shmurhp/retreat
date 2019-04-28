@@ -66,83 +66,74 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Check-in / Breakfast"
-      time: "9h00"
+    - name: "Check-in"
+      time: "Friday - 4:00 pm to 7:00 pm"
 
-    - name: "Linus Torvalds"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Linux Foundation"
-      link:
-        href: "http://twitter.com/linus"
-        text: "@linus"
-      presentation:
-        title: "Digging into a Linux Kernel"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "10h00"
+    - name: "Meet and Greet"
+      time: "Friday - 6:30 pm to 7:00 pm"
 
-    - name: "Bill Gates"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
-      link:
-        href: "http://github.com/billy95"
-        text: "@billy95"
-      presentation:
-        title: "Introducing Windows 12"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "11h00"
+    - name: "Taco Dinner"
+      time: "Friday - 7:00 pm to 8:00 pm"
+
+    - name: "Yoga Sleep Activity"
+      time: "Friday - 8:30 pm"
+
+    - name: "Free Time"
+      time: "Friday - 9:15 pm"
+
+    - name: "Yoga and Exercising"
+      time: "Saturday - 6:00 am - 7:00 am"
+
+    - name: "Meditation"
+      time: "Saturday - 7:30 am - 8:00 am"
+
+    - name: "Breakfast"
+      time: "Saturday - 8:00 am - 8:45 am"
+
+    - name: "First Session - Dawn A. Ross"
+      time: "Saturday - 9:00 am - 10:30 am"
+
+    - name: "Break"
+      time: "Saturday - 10:30 am - 10:45 am"
+
+    - name: "Session 1A or Session 1B"
+      time: "Saturday - 10:45 am - 11:45 am"
 
     - name: "Lunch"
-      time: "12h00"
+      time: "Saturday - 11:45 am - 12:45 pm"
 
-    - name: "Chuck Norris"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Delta Command"
-      link:
-        href: "http://twitter.com/littlechuck"
-        text: "@littlechuck"
-      presentation:
-        title: "How to speak to an elephant with one finger"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "13h00"
+    - name: "Dr. Whoever"
+      time: "Saturday - 1:00 pm - 2:00 pm"
 
-    - name: "Steve Jobs"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Apple, Inc."
-      link:
-        href: "http://github.com/stevie"
-        text: "@stevie"
-      presentation:
-        title: "Presenting iPad"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "14h00"
+    - name: "Break"
+      time: "Saturday - 2:00 pm - 2:15 pm"
 
-    - name: "Coffee-break"
-      time: "15h00"
+    - name: "Session 2A or Session 2B"
+      time: "Saturday - 2:15 pm - 3:15 pm"
 
-    - name: "Mark Zuckerberg"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Facebook"
-      link:
-        href: "http://twitter.com/zuck"
-        text: "@zuck"
-      presentation:
-        title: "Revealing Facebook Secrets"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "16h00"
+    - name: "Break"
+      time: "Saturday - 3:15 pm - 3:30 pm"
 
-    - name: "Steve Wozniak"
-      photo: "/img/pic.png"
-      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Apple, Inc."
-      link:
-        href: "http://twitter.com/woz"
-        text: "@woz"
-      presentation:
-        title: "Why do I prefer Android over iPhone"
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-        time: "17h00"
+    - name: "Dr. Dawn A. Rodd"
+      time: "Saturday - 3:30 pm - 5:00 pm"
+
+    - name: "Dinner"
+      time: "Saturday - 6:00 pm"
+
+    - name: "Disco Night"
+      time: "Saturday - 8:00 pm"
+
+    - name: "Yoga and Exercising"
+      time: "Sunday - 6:00 am - 7:00 am"
+
+    - name: "Meditation"
+      time: "Sunday - 7:30 am - 8:00 am"
+
+    - name: "Breakfast"
+      time: "Sunday - 8:00 am - 8:45 am"
+
+    - name: "Barbara Courtney"
+      time: "Sunday - 9:00 am - 10:30 am"
+
+    - name: "Checkout"
+      time: "By Sunday 11:00 am"
