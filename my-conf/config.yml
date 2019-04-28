@@ -1,5 +1,5 @@
-baseurl: "https://ggsretreat.tk/"
-title: "GG's Retreat"
+baseurl: "https://midwestwomensretreat.com/"
+title: "Midwest Women's Retreat"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,12 +7,12 @@ theme: "hugo-conference"
 
 params:
   # Conference info
-  Name: "GG's Retreat"
-  Description: "GG's Retreat"
-  Date: "May 1"
+  Name: "Midwest Women's Retreat"
+  Description: "3-day Women's Health and Healing Retreat"
+  Date: "Friday, June 28 - Sunday June 30, 2019"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Venue Name"
-  Address: "123 Main Street"
+  Venue: "King Conference Center"
+  Address: "6404 Woodland Ave"
   City:  "Kansas City"
   State: "Missouri"
   Images: ["/img/badge.jpg"]
