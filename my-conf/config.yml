@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "Midwest Women's Retreat"
   Description: "3-day Women's Health and Healing Retreat"
-  Date: "Friday, June 28 - Sunday June 30, 2019"
+  Date: "Friday, June 28 - Sunday, June 30"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "King Conference Center"
   Address: "6404 Woodland Ave"
@@ -42,7 +42,7 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register now!"
+    text: "Buy Tickets Now!"
     link: "#tickets"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
@@ -51,9 +51,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Hugo"
-      logo: "/img/pic.png"
-      url: "http://gohugo.io"
+    - name: "Midwest Women's Retreat"
+      logo: "/img/apple-touch-icon.png"
+      #url: "http://gohugo.io"
 
   # List of Partners
   Partners:
@@ -75,8 +75,13 @@ params:
     - name: "Taco Dinner"
       time: "Friday - 7:00 pm to 8:00 pm"
 
-    - name: "Yoga Sleep Activity"
-      time: "Friday - 8:30 pm"
+    - name: "Sami Aaron"
+      photo: "/img/sami_aaron.jpg"
+      bio: "Founder of The Resilient Activist"
+      presentation:
+        title: "Yoga Sleep Activity"
+        description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Friday - 8:30 pm"
 
     - name: "Free Time"
       time: "Friday - 9:15 pm"
@@ -90,11 +95,27 @@ params:
     - name: "Breakfast"
       time: "Saturday - 8:00 am - 8:45 am"
 
-    - name: "First Session - Dawn A. Ross"
-      time: "Saturday - 9:00 am - 10:30 am"
+    - name: "Dawn A. Ross"
+      photo: "/img/dawn_ross.jpg"
+      bio: "Dawn A. Ross, B.Msc., CHLC, CSMC, CLWMS, CWC is a Metaphysical Practitioner, Master of Spiritual Guide Connectivity, certified Holistic Life Coach, certified Stress Management Coach, certified EFT Practitioner, certified NLP Practioner, certified Hypnotherapy Practioner and a certified Life-Style Weight Management Specialist.  As a Master Instructor of Unconditional Living and Abundance Training, Dawn’s unique skills have helped her clients realize their dreams while removing blocks and manifesting the life they desire while actualizing their best version of self."
+      link: 
+        href: "https://www.new-dawn-coaching.com/"
+        text: "https://www.new-dawn-coaching.com/"
+      presentation:
+        title: "Living without Fear and Worry"
+        description: "Description of dawn's presentation"
+        time: "Saturday - 9:00 am - 10:30 am"
 
     - name: "Break"
       time: "Saturday - 10:30 am - 10:45 am"
+
+    - name: "Ola Truelove"
+      photo: "/img/ola_truelove.jpg"
+      bio: "A native Kansas Citian, Ola Truelove is a Vice President at Central Bank of the Midwest.  Ms. Truelove's 40-year career in the financial services industry includes management positions in the areas of Transit/Check Operations, Lockbox and Treasury Management Sales.  In addition to her 19-year tenure on the board of directors of the Greater Kansas City Chapter, Ola is also Past President of the Kansas City Association for Financial Professionals.  During her 19-year career at U.S. Bank, Ola was a member of the “Million Dollar Club” and recipient the bank’s Five Star Award for her community support of UFSC.  She has also been recognized by INROADS at the national level as Business Supervisor of the Year and UFSC at the national level as Outstanding Member of the Year."
+      presentation:
+        title: "Spiritually and Finances (Session 1A)"
+      #  description: "Description of ola's presentation"
+        time: "Saturday - 10:45 am - 11:45 am"
 
     - name: "Session 1A or Session 1B"
       time: "Saturday - 10:45 am - 11:45 am"
@@ -102,7 +123,7 @@ params:
     - name: "Lunch"
       time: "Saturday - 11:45 am - 12:45 pm"
 
-    - name: "Dr. Whoever"
+    - name: "Dr. Session"
       time: "Saturday - 1:00 pm - 2:00 pm"
 
     - name: "Break"
@@ -114,8 +135,12 @@ params:
     - name: "Break"
       time: "Saturday - 3:15 pm - 3:30 pm"
 
-    - name: "Dr. Dawn A. Rodd"
-      time: "Saturday - 3:30 pm - 5:00 pm"
+    - name: "Dawn A. Ross"
+      photo: "/img/dawn_ross.jpg"
+      presentation:
+        title: "Unconditional Living (co-creating the world you want)"
+        description: "Description of dawn's presentation"
+        time: "Saturday - 3:30 pm - 5:00 pm"
 
     - name: "Dinner"
       time: "Saturday - 6:00 pm"
@@ -136,4 +161,4 @@ params:
       time: "Sunday - 9:00 am - 10:30 am"
 
     - name: "Checkout"
-      time: "By Sunday 11:00 am"
+      time: "Sunday by 11:00 am"
