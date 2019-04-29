@@ -54,6 +54,8 @@ params:
     - name: "Midwest Women's Retreat"
       logo: "/img/apple-touch-icon.png"
       #url: "http://gohugo.io"
+    - name: Gigi's Kale Chips
+      logo: "/img/gigis_kale_chips.png"
 
   # List of Partners
   Partners:
@@ -69,10 +71,15 @@ params:
     - name: "Check-in"
       time: "Friday - 4:00 pm to 7:00 pm"
 
-    - name: "Meet and Greet"
-      time: "Friday - 6:30 pm to 7:00 pm"
+    - name: "Gigi Jones"
+      photo: "/img/pic.png"
+      bio: "Gigi Jones Bio"
+      presentation:
+        title: "Opening Ceremony"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Friday - 6:30 pm to 7:00 pm"
 
-    - name: "Taco Dinner"
+    - name: "Dinner"
       time: "Friday - 7:00 pm to 8:00 pm"
 
     - name: "Sami Aaron"
@@ -97,13 +104,13 @@ params:
 
     - name: "Dawn A. Ross"
       photo: "/img/dawn_ross.jpg"
-      bio: "Dawn A. Ross, B.Msc., CHLC, CSMC, CLWMS, CWC is a Metaphysical Practitioner, Master of Spiritual Guide Connectivity, certified Holistic Life Coach, certified Stress Management Coach, certified EFT Practitioner, certified NLP Practioner, certified Hypnotherapy Practioner and a certified Life-Style Weight Management Specialist.  As a Master Instructor of Unconditional Living and Abundance Training, Dawn’s unique skills have helped her clients realize their dreams while removing blocks and manifesting the life they desire while actualizing their best version of self."
+      bio: "Dawn A. Ross, B.Msc., CHLC, CSMC, CLWMS, CWC is a Metaphysical Practitioner, Master of Spiritual Guide Connectivity, certified Holistic Life Coach, certified Stress Management Coach, certified EFT Practitioner, certified NLP Practioner, certified Hypnotherapy Practioner and a certified Life-Style Weight Management Specialist.  As a Master Instructor of Unconditional Living and Abundance Training, Dawn’s unique skills have helped her clients realize their dreams while removing blocks and manifesting the life they desire while actualizing their best version of self.  After years of working abroad in both the corporate world of Information Technology and first studying and then practicing Naturheilung (Natural Healing, Herbology, Alternative and Eastern Medicine) in Germany and Austria,  Dawn returned to her base in America to help teach and guide others. Although located in south Florida, Dawn travels extensively around the globe to deliver seminars, retreats and live sessions. Using video chat technology, Dawn is now able to connect with clients on nearly every continent!  Whether Dawn is working one on one with individuals, couples, groups, corporations  or on retreat dawn brings her unique style of energy, humor and universal connectivity to everything she does. Dawn's ability to share from her own real life experiences, as well as bring her impressive list of unique skills and abilities sprinkled with heart-felt speech and lots of fun has made her now an internationally known and loved speaker and coach."
       link: 
         href: "https://www.new-dawn-coaching.com/"
         text: "https://www.new-dawn-coaching.com/"
       presentation:
         title: "Living without Fear and Worry"
-        description: "Description of dawn's presentation"
+        description: "In this seminar we talk about the bad habit of worry and the fear that holds us back. We will learn some techniques how to quiet the mind and do things from a place of faith rather than a place of fear.   We will also discuss understanding fear and how to release it from our bodies. All the negative energies which block us can be overcome in order to flow more easily with the universe and manifest the life we want rather than draw to us the experiences which we most fear and worry about.  This will include using techniques from NLP, EFT and Metaphysics.  Now is your time to break from from the thoughts and feelings that feel \"uncontrollable\". Take back control of your mind and find more peace."
         time: "Saturday - 9:00 am - 10:30 am"
 
     - name: "Break"
@@ -115,6 +122,14 @@ params:
       presentation:
         title: "Spiritually and Finances (Session 1A)"
       #  description: "Description of ola's presentation"
+        time: "Saturday - 10:45 am - 11:45 am"
+
+    - name: "Lynne Shipley"
+      photo: "/img/lynne_shipley.jpg"
+      bio: "Lynne Shipley, educator, activist and printer has committed herself to empowering women, men and children to use self acceptance as a springboard to one's journey through life. A printer by trade, Lynne became a technology teacher 15 years ago and has continuously mentored students and adults in the education cycle. As a three time regional and national grant recipient, she uses her historical knowledge and love of African American culture as a stepping stone in transforming lives."
+      presentation:
+        title: "Shame No More! (Session 1B)"
+        description: "Shame has a way of stunting growth. Whether it's emotional, mental or professional, when personal or public situations are used to make one embarrassed, it can hurt. This workshop is designed as a first step to encourage women to confront issues that may be holding them back from success. Let's collectively discuss tools for self empowerment in a trusting environment, and commit to stop allowing shame to control our lives."
         time: "Saturday - 10:45 am - 11:45 am"
 
     - name: "Session 1A or Session 1B"
@@ -139,7 +154,7 @@ params:
       photo: "/img/dawn_ross.jpg"
       presentation:
         title: "Unconditional Living (co-creating the world you want)"
-        description: "Description of dawn's presentation"
+        description: "In this seminar we learn about about our true ability to create the world around us by learning to live unconditionally. We will discuss tools to use in order to create the results we want by focusing on metaphysical techniques which allow us to arrive there without being dependent on prior events.  When we empower ourselves to create a paradigm shift in our mind, the reality which we know will change forever.  We can choose the reality we want and attract to us the experiences, people and situations we desire. Choose the brush you want to paint your life with and let's get creative!!!"
         time: "Saturday - 3:30 pm - 5:00 pm"
 
     - name: "Dinner"
@@ -158,7 +173,19 @@ params:
       time: "Sunday - 8:00 am - 8:45 am"
 
     - name: "Barbara Courtney"
-      time: "Sunday - 9:00 am - 10:30 am"
+      photo: "/img/pic.png"
+      bio: "Barbara Courtney Bio"
+      presentation:
+        title: "The Womb of My Mother and Father"
+        description: "Our journey of life begins in the womb. As we laid in the tomb of the womb to be birth. Did our soul get fed the  love, joy, and nourishment we needed for our journey?"
+        time: "Sunday - 9:00 am - 10:00 am"
+
+    - name: "Gigi Jones"
+      photo: "/img/pic.png"
+      bio: "Gigi Jones Bio"
+      presentation:
+        title: "Closing Remarks"
+        time: "Sunday - 10:00 am to 11:00 am"
 
     - name: "Checkout"
       time: "Sunday by 11:00 am"

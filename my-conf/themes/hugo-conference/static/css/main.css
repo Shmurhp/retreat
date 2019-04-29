@@ -8,6 +8,9 @@
   border: 0;
   text-decoration: none;
 }
+td.schedule-description {
+  width: 50%;
+}
 #room-list {
   margin-left: 30px;
 }
