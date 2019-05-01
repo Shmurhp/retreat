@@ -56,6 +56,10 @@ params:
       #url: "http://gohugo.io"
     - name: Gigi's Kale Chips
       logo: "/img/gigis_kale_chips.png"
+    - name: BHCC
+      logo: "/img/bhcc.jpg"
+    - name: Gigi The Vegan
+      logo: "/img/gigi_the_vegan.png"
 
   # List of Partners
   Partners:
@@ -173,7 +177,7 @@ params:
       time: "Sunday - 8:00 am - 8:45 am"
 
     - name: "Barbara Courtney"
-      photo: "/img/pic.png"
+      photo: "/img/barbara_courtney.jpg"
       bio: "Barbara Courtney Bio"
       presentation:
         title: "The Womb of My Mother and Father"
