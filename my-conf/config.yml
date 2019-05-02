@@ -76,7 +76,7 @@ params:
       time: "Friday - 4:00 pm to 7:00 pm"
 
     - name: "Gigi Jones (Gigi the Vegan)"
-      photo: "/img/pic.png"
+      photo: "/img/gigi_jones.jpg"
       bio: "Gigi Jones Bio"
       presentation:
         title: "Welcome"
@@ -106,7 +106,7 @@ params:
       time: "Friday - 9:00 pm"
 
     - name: "Dr. Auburn E. Ellis"
-      photo: "/img/pic.png"
+      photo: "/img/auburn_ellis.jpg"
       bio: "Dr. Auburn E. Ellis, founder of Studio 54oo, is a visual artist with studios in KC & Chicago. Painting, drawing and collage are an essential part of the artist’s practice as she explores the use of traditional mediums for art reflective of the African Diaspora.  Rooted in ceramics and three-dimensional design, her work pushes the boundaries of texture and rhythm. Currently, she is working on an art series related to yoga instruction. As a 300-hour Certified Yoga Instructor, making art based on these teaching experiences is an important part of merging studio practice. Specializing in Kemetic Yoga, the realization that yoga originated in Africa (Ancient Egypt or Kemet) was a logical teaching path and extension to her doctoral dissertation."
       presentation:
         title: "Sun Salutations"
@@ -128,7 +128,7 @@ params:
       time: "Saturday - 10:30 am - 10:40 am"
 
     - name: "Rashaun Clark"
-      photo: "/img/pic.png"
+      photo: "/img/rashaun_clark.jpg"
       bio: "Kansas City Born and raised Wife-Mother-Entrepreneur and believer. Operating consistently on God’s promise, positive energy and heavy Hussle, owner and Master Stylist at Love Over Hair Studio KC and Co-Owner of Urban Cafe KC."
       presentation:
         title: "Against All Odds (Session 1A)"
@@ -147,7 +147,7 @@ params:
       time: "Saturday - 11:40 am - 12:40 pm"
 
     - name: "Gigi Jones (Gigi the Vegan)"
-      photo: "/img/pic.png"
+      photo: "/img/gigi_jones.jpg"
       bio: "Gigi Jones Bio"
       presentation:
         title: "Healing Through Food"
@@ -193,7 +193,7 @@ params:
         #time: "Saturday - 10:45 am - 11:45 am"
 
     - name: "Gigi Jones (Gigi the Vegan)"
-      photo: "/img/pic.png"
+      photo: "/img/gigi_jones.jpg"
       bio: "Gigi Jones Bio"
       presentation:
         title: "Meditation"
@@ -215,7 +215,7 @@ params:
       time: "Sunday - 10:00 am - 10:15 am"
 
     - name: "Gigi Jones (Gigi the Vegan)"
-      photo: "/img/pic.png"
+      photo: "/img/gigi_jones.jpg"
       bio: "Gigi Jones Bio"
       presentation:
         title: "Closing Remarks"
