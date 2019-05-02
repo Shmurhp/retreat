@@ -9,7 +9,7 @@
   text-decoration: none;
 }
 td.schedule-description {
-  width: 50%;
+  width: 40%;
 }
 #room-list {
   margin-left: 30px;
@@ -466,7 +466,7 @@ nav {
   text-align: left;
 }
 .schedule-slot {
-  /*width: 250px;*/
+  width: 280px;
   font-size: 16px;
 }
 .speakers-company {
