@@ -27,10 +27,10 @@
             <td class="schedule-description">{{ .presentation.description }}</td>
           </tr>
         {{ else }}
-          <tr class="schedule-other">
+          <tr>
             <td class="schedule-time">{{ .time }}</td>
             <td class="schedule-slot">{{ .name }}</td>
-            <td class="schedule-description">-</td>
+            <td class="schedule-description"></td>
           </tr>
         {{ end }}
       {{ end }}

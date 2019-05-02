@@ -75,15 +75,23 @@ params:
     - name: "Check-in"
       time: "Friday - 4:00 pm to 7:00 pm"
 
-    - name: "Gigi Jones"
+    - name: "Gigi Jones (Gigi the Vegan)"
       photo: "/img/pic.png"
       bio: "Gigi Jones Bio"
+      presentation:
+        title: "Welcome"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Friday - 6:00 pm to 6:30 pm"
+
+    - name: "Rev. Sandra Campbell"
+      photo: "/img/pic.png"
+      # bio: "Gigi Jones Bio"
       presentation:
         title: "Opening Ceremony"
         #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
         time: "Friday - 6:30 pm to 7:00 pm"
 
-    - name: "Dinner"
+    - name: "Vegan Dinner"
       time: "Friday - 7:00 pm to 8:00 pm"
 
     - name: "Sami Aaron"
@@ -92,19 +100,62 @@ params:
       presentation:
         title: "Yoga Sleep Activity"
         description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
-        time: "Friday - 8:30 pm"
+        time: "Friday - 8:30 pm - 9:00 pm"
 
     - name: "Free Time"
-      time: "Friday - 9:15 pm"
+      time: "Friday - 9:00 pm"
 
-    - name: "Yoga and Exercising"
-      time: "Saturday - 6:00 am - 7:00 am"
+    - name: "Dr. Auburn E. Ellis"
+      photo: "/img/pic.png"
+      bio: "Dr. Auburn E. Ellis, founder of Studio 54oo, is a visual artist with studios in KC & Chicago. Painting, drawing and collage are an essential part of the artist’s practice as she explores the use of traditional mediums for art reflective of the African Diaspora.  Rooted in ceramics and three-dimensional design, her work pushes the boundaries of texture and rhythm. Currently, she is working on an art series related to yoga instruction. As a 300-hour Certified Yoga Instructor, making art based on these teaching experiences is an important part of merging studio practice. Specializing in Kemetic Yoga, the realization that yoga originated in Africa (Ancient Egypt or Kemet) was a logical teaching path and extension to her doctoral dissertation."
+      presentation:
+        title: "Sun Salutations"
+        description: "For the Midwest Women's Retreat join us for 60 minutes of early morning Sun Salutations. We will calm the mind and open the body with a Kemetic Yoga Flow. This practice will include focus on supporting a strong spine and deep controlled Rule of Four Breathing. We will start with meditative exercises then move into the yoga flow, which is beginner friendly and welcomes yogis of all levels. By the end of the practice, participants will connect with tranquility that will set the tone for the rest of the day. This class will help you learn techniques to extend your inner peace off the mat. BYOM: Bring your own mat if possible, as well as an open mind."
+        time: "Saturday - 6:30 am - 7:30 am"
 
-    - name: "Meditation"
-      time: "Saturday - 7:30 am - 8:00 am"
+    - name: "Vegan Breakfast"
+      time: "Saturday - 8:00 am - 8:50 am"
 
-    - name: "Breakfast"
-      time: "Saturday - 8:00 am - 8:45 am"
+    - name: "Dr. Malika Woods"
+      photo: "/img/pic.png"
+      time: "Saturday - 9:00 am - 10:30 am"
+      #bio: "Founder of The Resilient Activist"
+      #presentation:
+        #title: "Sun Salutations"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+
+    - name: "Break"
+      time: "Saturday - 10:30 am - 10:40 am"
+
+    - name: "Rashaun Clark"
+      photo: "/img/pic.png"
+      bio: "Kansas City Born and raised Wife-Mother-Entrepreneur and believer. Operating consistently on God’s promise, positive energy and heavy Hussle, owner and Master Stylist at Love Over Hair Studio KC and Co-Owner of Urban Cafe KC."
+      presentation:
+        title: "Against All Odds (Session 1A)"
+        time: "Saturday - 10:40 am - 11:40 am"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+
+    - name: "Lynne Shipley"
+      photo: "/img/lynne_shipley.jpg"
+      bio: "Lynne Shipley, educator, activist and printer has committed herself to empowering women, men and children to use self acceptance as a springboard to one's journey through life. A printer by trade, Lynne became a technology teacher 15 years ago and has continuously mentored students and adults in the education cycle. As a three time regional and national grant recipient, she uses her historical knowledge and love of African American culture as a stepping stone in transforming lives."
+      presentation:
+        title: "Shame No More! (Session 1B)"
+        description: "Shame has a way of stunting growth. Whether it's emotional, mental or professional, when personal or public situations are used to make one embarrassed, it can hurt. This workshop is designed as a first step to encourage women to confront issues that may be holding them back from success. Let's collectively discuss tools for self empowerment in a trusting environment, and commit to stop allowing shame to control our lives."
+        time: "Saturday - 10:40 am - 11:40 am"
+
+    - name: "Vegan Lunch"
+      time: "Saturday - 11:40 am - 12:40 pm"
+
+    - name: "Gigi Jones (Gigi the Vegan)"
+      photo: "/img/pic.png"
+      bio: "Gigi Jones Bio"
+      presentation:
+        title: "Healing Through Food"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Saturday - 12:40 pm to 1:00 pm"
+
+    - name: "Break"
+      time: "Saturday - 1:40 pm - 1:50 pm"
 
     - name: "Dawn A. Ross"
       photo: "/img/dawn_ross.jpg"
@@ -115,66 +166,42 @@ params:
       presentation:
         title: "Living without Fear and Worry"
         description: "In this seminar we talk about the bad habit of worry and the fear that holds us back. We will learn some techniques how to quiet the mind and do things from a place of faith rather than a place of fear.   We will also discuss understanding fear and how to release it from our bodies. All the negative energies which block us can be overcome in order to flow more easily with the universe and manifest the life we want rather than draw to us the experiences which we most fear and worry about.  This will include using techniques from NLP, EFT and Metaphysics.  Now is your time to break from from the thoughts and feelings that feel \"uncontrollable\". Take back control of your mind and find more peace."
-        time: "Saturday - 9:00 am - 10:30 am"
+        time: "Saturday - 1:50 pm - 3:30 pm"
 
     - name: "Break"
-      time: "Saturday - 10:30 am - 10:45 am"
-
-    - name: "Ola Truelove"
-      photo: "/img/ola_truelove.jpg"
-      bio: "A native Kansas Citian, Ola Truelove is a Vice President at Central Bank of the Midwest.  Ms. Truelove's 40-year career in the financial services industry includes management positions in the areas of Transit/Check Operations, Lockbox and Treasury Management Sales.  In addition to her 19-year tenure on the board of directors of the Greater Kansas City Chapter, Ola is also Past President of the Kansas City Association for Financial Professionals.  During her 19-year career at U.S. Bank, Ola was a member of the “Million Dollar Club” and recipient the bank’s Five Star Award for her community support of UFSC.  She has also been recognized by INROADS at the national level as Business Supervisor of the Year and UFSC at the national level as Outstanding Member of the Year."
-      presentation:
-        title: "Spiritually and Finances (Session 1A)"
-      #  description: "Description of ola's presentation"
-        time: "Saturday - 10:45 am - 11:45 am"
-
-    - name: "Lynne Shipley"
-      photo: "/img/lynne_shipley.jpg"
-      bio: "Lynne Shipley, educator, activist and printer has committed herself to empowering women, men and children to use self acceptance as a springboard to one's journey through life. A printer by trade, Lynne became a technology teacher 15 years ago and has continuously mentored students and adults in the education cycle. As a three time regional and national grant recipient, she uses her historical knowledge and love of African American culture as a stepping stone in transforming lives."
-      presentation:
-        title: "Shame No More! (Session 1B)"
-        description: "Shame has a way of stunting growth. Whether it's emotional, mental or professional, when personal or public situations are used to make one embarrassed, it can hurt. This workshop is designed as a first step to encourage women to confront issues that may be holding them back from success. Let's collectively discuss tools for self empowerment in a trusting environment, and commit to stop allowing shame to control our lives."
-        time: "Saturday - 10:45 am - 11:45 am"
-
-    - name: "Session 1A or Session 1B"
-      time: "Saturday - 10:45 am - 11:45 am"
-
-    - name: "Lunch"
-      time: "Saturday - 11:45 am - 12:45 pm"
-
-    - name: "Dr. Session"
-      time: "Saturday - 1:00 pm - 2:00 pm"
-
-    - name: "Break"
-      time: "Saturday - 2:00 pm - 2:15 pm"
-
-    - name: "Session 2A or Session 2B"
-      time: "Saturday - 2:15 pm - 3:15 pm"
-
-    - name: "Break"
-      time: "Saturday - 3:15 pm - 3:30 pm"
+      time: "Saturday - 3:30 pm - 3:45 pm"
 
     - name: "Dawn A. Ross"
       photo: "/img/dawn_ross.jpg"
       presentation:
-        title: "Unconditional Living (co-creating the world you want)"
+        title: "Unconditional Living (Co-creating the world you want)"
         description: "In this seminar we learn about about our true ability to create the world around us by learning to live unconditionally. We will discuss tools to use in order to create the results we want by focusing on metaphysical techniques which allow us to arrive there without being dependent on prior events.  When we empower ourselves to create a paradigm shift in our mind, the reality which we know will change forever.  We can choose the reality we want and attract to us the experiences, people and situations we desire. Choose the brush you want to paint your life with and let's get creative!!!"
-        time: "Saturday - 3:30 pm - 5:00 pm"
+        time: "Saturday - 3:45 pm - 5:00 pm"
 
-    - name: "Dinner"
-      time: "Saturday - 6:00 pm"
+    - name: "Vegan Dinner"
+      time: "Saturday - 5:00 pm - 6:00 pm"
 
-    - name: "Disco Night"
-      time: "Saturday - 8:00 pm"
+    - name: "Ecstatic Dance"
+      time: "Saturday - 7:00 pm - 9:00 pm"
 
-    - name: "Yoga and Exercising"
-      time: "Sunday - 6:00 am - 7:00 am"
+    #- name: "Ola Truelove"
+     # photo: "/img/ola_truelove.jpg"
+      #bio: "A native Kansas Citian, Ola Truelove is a Vice President at Central Bank of the Midwest.  Ms. Truelove's 40-year career in the financial services industry includes management positions in the areas of Transit/Check Operations, Lockbox and Treasury Management Sales.  In addition to her 19-year tenure on the board of directors of the Greater Kansas City Chapter, Ola is also Past President of the Kansas City Association for Financial Professionals.  During her 19-year career at U.S. Bank, Ola was a member of the “Million Dollar Club” and recipient the bank’s Five Star Award for her community support of UFSC.  She has also been recognized by INROADS at the national level as Business Supervisor of the Year and UFSC at the national level as Outstanding Member of the Year."
+      #presentation:
+       # title: "Spiritually and Finances (Session 1A)"
+      #  description: "Description of ola's presentation"
+        #time: "Saturday - 10:45 am - 11:45 am"
 
-    - name: "Meditation"
-      time: "Sunday - 7:30 am - 8:00 am"
+    - name: "Gigi Jones (Gigi the Vegan)"
+      photo: "/img/pic.png"
+      bio: "Gigi Jones Bio"
+      presentation:
+        title: "Meditation"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Sunday - 6:30 am to 7:00 am"
 
-    - name: "Breakfast"
-      time: "Sunday - 8:00 am - 8:45 am"
+    - name: "Vegan Breakfast"
+      time: "Sunday - 7:30 am - 8:30 am"
 
     - name: "Barbara Courtney"
       photo: "/img/barbara_courtney.jpg"
@@ -184,12 +211,13 @@ params:
         description: "Our journey of life begins in the womb. As we laid in the tomb of the womb to be birth. Did our soul get fed the  love, joy, and nourishment we needed for our journey?"
         time: "Sunday - 9:00 am - 10:00 am"
 
-    - name: "Gigi Jones"
+    - name: "Break"
+      time: "Sunday - 10:00 am - 10:15 am"
+
+    - name: "Gigi Jones (Gigi the Vegan)"
       photo: "/img/pic.png"
       bio: "Gigi Jones Bio"
       presentation:
         title: "Closing Remarks"
-        time: "Sunday - 10:00 am to 11:00 am"
-
-    - name: "Checkout"
-      time: "Sunday by 11:00 am"
+        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        time: "Sunday - 10:15 am to 11:15 am"
