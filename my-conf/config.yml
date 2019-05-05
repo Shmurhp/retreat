@@ -27,7 +27,7 @@ params:
     - schedule
     - sponsors
     - tickets
-    #- contact
+    - contact
 
   # Titles which you can translate to other languages
   Titles:
@@ -37,7 +37,7 @@ params:
     schedule: "Schedule"
     sponsors: "Sponsors"
     tickets: "Tickets"
-#    contact: "Contact"
+    contact: "Contact"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -116,8 +116,8 @@ params:
     - name: "Vegan Breakfast"
       time: "Saturday - 8:00 am - 8:50 am"
 
-    - name: "Dr. Malika Woods"
-      photo: "/img/pic.png"
+    - name: "Dawn A. Ross"
+      photo: "/img/dawn_ross.jpg"
       time: "Saturday - 9:00 am - 10:30 am"
       #bio: "Founder of The Resilient Activist"
       #presentation:
@@ -133,7 +133,7 @@ params:
       presentation:
         title: "Against All Odds (Session 1A)"
         time: "Saturday - 10:40 am - 11:40 am"
-        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+        description: "In life we all face oppositions, inconvenient situations, uncontrollable misfortunes. In this seminar we will be discussing different alternative to healing from the inside out, by looking through your spirit versus your flesh. We often only see right where we are, we have to be visual and fall in love with the process that helps us accomplish our purpose. Let’s face it, sometimes we are not prepared for all that God has for us, we must first level up."
 
     - name: "Lynne Shipley"
       photo: "/img/lynne_shipley.jpg"
@@ -150,9 +150,17 @@ params:
       photo: "/img/gigi_jones.jpg"
       bio: "Gigi Jones Bio"
       presentation:
-        title: "Healing Through Food"
-        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
-        time: "Saturday - 12:40 pm to 1:00 pm"
+        title: "Healing Through Food (Session 1A)"
+        description: "Think clean eating is just one more passing food fad? ... discover how to heal  health conditions naturally on a raw vegan diet."
+        time: "Saturday - 12:40 pm to 1:40 pm"
+
+    - name: "Ola Truelove"
+      photo: "/img/ola_truelove.jpg"
+      bio: "A native Kansas Citian, Ola Truelove is a Vice President at Central Bank of the Midwest.  Ms. Truelove's 40-year career in the financial services industry includes management positions in the areas of Transit/Check Operations, Lockbox and Treasury Management Sales.  In addition to her 19-year tenure on the board of directors of the Greater Kansas City Chapter, Ola is also Past President of the Kansas City Association for Financial Professionals.  During her 19-year career at U.S. Bank, Ola was a member of the “Million Dollar Club” and recipient the bank’s Five Star Award for her community support of UFSC.  She has also been recognized by INROADS at the national level as Business Supervisor of the Year and UFSC at the national level as Outstanding Member of the Year."
+      presentation:
+        title: "Money Skills (How to Save to Buy The Block) (Session 2A)"
+        description: "In this seminar you will learn money management life skills to make smart financial choices to buy the block!"
+        time: "Saturday - 12:40 pm to 1:40 pm"
 
     - name: "Break"
       time: "Saturday - 1:40 pm - 1:50 pm"
@@ -181,7 +189,7 @@ params:
     - name: "Vegan Dinner"
       time: "Saturday - 5:00 pm - 6:00 pm"
 
-    - name: "Ecstatic Dance"
+    - name: "Dance"
       time: "Saturday - 7:00 pm - 9:00 pm"
 
     #- name: "Ola Truelove"
@@ -208,7 +216,7 @@ params:
       bio: "Barbara Courtney Bio"
       presentation:
         title: "The Womb of My Mother and Father"
-        description: "Our journey of life begins in the womb. As we laid in the tomb of the womb to be birth. Did our soul get fed the  love, joy, and nourishment we needed for our journey?"
+        description: "Our journey of life begins in the womb. As we laid in the womb to be birth, did our soul get fed the love, joy, and nourishment we needed for our journey?"
         time: "Sunday - 9:00 am - 10:00 am"
 
     - name: "Break"
