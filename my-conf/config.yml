@@ -54,12 +54,19 @@ params:
     - name: "Midwest Women's Retreat"
       logo: "/img/apple-touch-icon.png"
       #url: "http://gohugo.io"
-    - name: Gigi's Kale Chips
+    - name: "Gigi's Kale Chips"
       logo: "/img/gigis_kale_chips.png"
-    - name: BHCC
+    - name: "BHCC"
       logo: "/img/bhcc.jpg"
-    - name: Gigi The Vegan
+    - name: "Gigi The Vegan"
       logo: "/img/gigi_the_vegan.png"
+    - name: "Blue Springs Theatre"
+      logo: "/img/blue_springs_theatre.png"
+    - name: "Terra"
+      logo: "/img/terra.png"
+    - name: "The Wow"
+      logo: "/img/the_wow.png"
+
 
   # List of Partners
   Partners:
@@ -84,7 +91,7 @@ params:
         time: "Friday - 6:00 pm to 6:30 pm"
 
     - name: "Rev. Sandra Campbell"
-      photo: "/img/pic.png"
+      photo: "/img/sandra_campbell.jpg"
       # bio: "Gigi Jones Bio"
       presentation:
         title: "Opening Ceremony"
