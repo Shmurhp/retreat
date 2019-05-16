@@ -37,7 +37,7 @@ params:
     schedule: "Schedule"
     sponsors: "Sponsors"
     tickets: "Tickets"
-    contact: "Contact"
+    contact: "Contact Us"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -125,11 +125,14 @@ params:
 
     - name: "Dawn A. Ross"
       photo: "/img/dawn_ross.jpg"
-      time: "Saturday - 9:00 am - 10:30 am"
-      #bio: "Founder of The Resilient Activist"
-      #presentation:
-        #title: "Sun Salutations"
-        #description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
+      bio: "Dawn A. Ross, B.Msc., CHLC, CSMC, CLWMS, CWC is a Metaphysical Practitioner, Master of Spiritual Guide Connectivity, certified Holistic Life Coach, certified Stress Management Coach, certified EFT Practitioner, certified NLP Practioner, certified Hypnotherapy Practioner and a certified Life-Style Weight Management Specialist.  As a Master Instructor of Unconditional Living and Abundance Training, Dawn’s unique skills have helped her clients realize their dreams while removing blocks and manifesting the life they desire while actualizing their best version of self.  After years of working abroad in both the corporate world of Information Technology and first studying and then practicing Naturheilung (Natural Healing, Herbology, Alternative and Eastern Medicine) in Germany and Austria,  Dawn returned to her base in America to help teach and guide others. Although located in south Florida, Dawn travels extensively around the globe to deliver seminars, retreats and live sessions. Using video chat technology, Dawn is now able to connect with clients on nearly every continent!  Whether Dawn is working one on one with individuals, couples, groups, corporations  or on retreat dawn brings her unique style of energy, humor and universal connectivity to everything she does. Dawn's ability to share from her own real life experiences, as well as bring her impressive list of unique skills and abilities sprinkled with heart-felt speech and lots of fun has made her now an internationally known and loved speaker and coach."
+      link: 
+        href: "https://www.new-dawn-coaching.com/"
+        text: "https://www.new-dawn-coaching.com/"
+      presentation:
+        title: "Living without Fear and Worry"
+        description: "In this seminar we talk about the bad habit of worry and the fear that holds us back. We will learn some techniques how to quiet the mind and do things from a place of faith rather than a place of fear.   We will also discuss understanding fear and how to release it from our bodies. All the negative energies which block us can be overcome in order to flow more easily with the universe and manifest the life we want rather than draw to us the experiences which we most fear and worry about.  This will include using techniques from NLP, EFT and Metaphysics.  Now is your time to break from from the thoughts and feelings that feel \"uncontrollable\". Take back control of your mind and find more peace."
+        time: "Saturday - 9:00 am - 10:30 am"
 
     - name: "Break"
       time: "Saturday - 10:30 am - 10:40 am"
@@ -161,26 +164,15 @@ params:
         description: "Think clean eating is just one more passing food fad? ... discover how to heal  health conditions naturally on a raw vegan diet."
         time: "Saturday - 12:40 pm to 1:40 pm"
 
+    - name: "Break"
+      time: "Saturday - 1:40 pm - 1:50 pm"
+
     - name: "Ola Truelove"
       photo: "/img/ola_truelove.jpg"
       bio: "A native Kansas Citian, Ola Truelove is a Vice President at Central Bank of the Midwest.  Ms. Truelove's 40-year career in the financial services industry includes management positions in the areas of Transit/Check Operations, Lockbox and Treasury Management Sales.  In addition to her 19-year tenure on the board of directors of the Greater Kansas City Chapter, Ola is also Past President of the Kansas City Association for Financial Professionals.  During her 19-year career at U.S. Bank, Ola was a member of the “Million Dollar Club” and recipient the bank’s Five Star Award for her community support of UFSC.  She has also been recognized by INROADS at the national level as Business Supervisor of the Year and UFSC at the national level as Outstanding Member of the Year."
       presentation:
         title: "Money Skills (How to Save to Buy The Block) (Session 2A)"
         description: "In this seminar you will learn money management life skills to make smart financial choices to buy the block!"
-        time: "Saturday - 12:40 pm to 1:40 pm"
-
-    - name: "Break"
-      time: "Saturday - 1:40 pm - 1:50 pm"
-
-    - name: "Dawn A. Ross"
-      photo: "/img/dawn_ross.jpg"
-      bio: "Dawn A. Ross, B.Msc., CHLC, CSMC, CLWMS, CWC is a Metaphysical Practitioner, Master of Spiritual Guide Connectivity, certified Holistic Life Coach, certified Stress Management Coach, certified EFT Practitioner, certified NLP Practioner, certified Hypnotherapy Practioner and a certified Life-Style Weight Management Specialist.  As a Master Instructor of Unconditional Living and Abundance Training, Dawn’s unique skills have helped her clients realize their dreams while removing blocks and manifesting the life they desire while actualizing their best version of self.  After years of working abroad in both the corporate world of Information Technology and first studying and then practicing Naturheilung (Natural Healing, Herbology, Alternative and Eastern Medicine) in Germany and Austria,  Dawn returned to her base in America to help teach and guide others. Although located in south Florida, Dawn travels extensively around the globe to deliver seminars, retreats and live sessions. Using video chat technology, Dawn is now able to connect with clients on nearly every continent!  Whether Dawn is working one on one with individuals, couples, groups, corporations  or on retreat dawn brings her unique style of energy, humor and universal connectivity to everything she does. Dawn's ability to share from her own real life experiences, as well as bring her impressive list of unique skills and abilities sprinkled with heart-felt speech and lots of fun has made her now an internationally known and loved speaker and coach."
-      link: 
-        href: "https://www.new-dawn-coaching.com/"
-        text: "https://www.new-dawn-coaching.com/"
-      presentation:
-        title: "Living without Fear and Worry"
-        description: "In this seminar we talk about the bad habit of worry and the fear that holds us back. We will learn some techniques how to quiet the mind and do things from a place of faith rather than a place of fear.   We will also discuss understanding fear and how to release it from our bodies. All the negative energies which block us can be overcome in order to flow more easily with the universe and manifest the life we want rather than draw to us the experiences which we most fear and worry about.  This will include using techniques from NLP, EFT and Metaphysics.  Now is your time to break from from the thoughts and feelings that feel \"uncontrollable\". Take back control of your mind and find more peace."
         time: "Saturday - 1:50 pm - 3:30 pm"
 
     - name: "Break"
@@ -196,7 +188,7 @@ params:
     - name: "Vegan Dinner"
       time: "Saturday - 5:00 pm - 6:00 pm"
 
-    - name: "Dance"
+    - name: "Disco Night"
       time: "Saturday - 7:00 pm - 9:00 pm"
 
     #- name: "Ola Truelove"
@@ -223,7 +215,7 @@ params:
       bio: "Barbara Courtney Bio"
       presentation:
         title: "The Womb of My Mother and Father"
-        description: "Our journey of life begins in the womb. As we laid in the womb to be birth, did our soul get fed the love, joy, and nourishment we needed for our journey?"
+        description: "Our journey of life begins in the womb.  Did our souls get fed the love, joy, and nourishment we needed for our journey?"
         time: "Sunday - 9:00 am - 10:00 am"
 
     - name: "Break"
