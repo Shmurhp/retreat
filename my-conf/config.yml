@@ -103,7 +103,10 @@ params:
 
     - name: "Sami Aaron"
       photo: "/img/sami_aaron.jpg"
-      bio: "Founder of The Resilient Activist"
+      bio: "Sami Aaron is the founder of the nonprofit, The Resilient Activist, a community resource for all things environmental and nature-connected in the Kansas City area. As an Extension Master Naturalist she understands the interconnectivity between nature and humanity. Sami is a yoga and meditation teacher who focuses on the emotional and physical benefits of time spent in nature and the important connection we humans have with the natural world. She has created The Resilient Activist to build community to nurture, uplift, and support those who strive to live in conscious harmony with Earth."
+      link: 
+        href: "www.TheResilientActivist.org"
+        text: "www.TheResilientActivist.org"
       presentation:
         title: "Yoga Sleep Activity"
         description: "Yoga Nidra (yogic sleep). Yoga Nidra a is Yogic Sleep with awareness.  It’s a guided meditation that nourishes the body, breath, emotions, intellect, and intuition and offers a deep sense of peace. Yoga Nidra is a nurturing practice for anyone suffering from chronic pain, illness, grief or stress."
@@ -158,9 +161,10 @@ params:
 
     - name: "Gigi Jones (Gigi the Vegan)"
       photo: "/img/gigi_jones.jpg"
-      bio: "Gigi Jones Bio"
+      bio: "Mother of 4 sons Grandmother, Sister, Friend, Teacher and Mentor!  Public Speaker,  Certified health and Wellness Coach, Energy Worker, Formulator, Manufacturer and  Entrepreneur.  Owner of Gigi's 21 Day Detox Program, Gigi's Kale Chips, Gigi's Detox Tea, Gigi's Natural Hair and Skincare Products and coming soon Gigi's Vegan Eatery.  Her  guiding concept is 'Do what you Love.' It's a motto Jones obviously takes to heart. Owning her own business at age 19 and she has over 30 years’ experience in retail and business management.  Along with all of her business endeavors,   she has mentored youth on the importance of  healthy eating habits, volunteered to help raise money for several nonprofit organizations, local political campaigns, women initiatives  and served as Program Director in mentoring high risk African American females. Gigi has received numerous awards which among them are:  Kansas City Spirit Award, Kansas City Living Legends Award, Small Business Of the Year award,  and featured on the cover of Kansas City Business Journal Magazine, KCSourceLink Magazine and  KC Magazine. She recently returned from China as a Missouri Delegate at China Expo to promote her all natural organic skin care products.
+"
       presentation:
-        title: "Healing Through Food (Session 1A)"
+        title: "Healing Through Food"
         description: "Think clean eating is just one more passing food fad? ... discover how to heal  health conditions naturally on a raw vegan diet."
         time: "Saturday - 12:40 pm to 1:40 pm"
 
@@ -173,6 +177,14 @@ params:
       presentation:
         title: "Money Skills (How to Save to Buy The Block) (Session 2A)"
         description: "In this seminar you will learn money management life skills to make smart financial choices to buy the block!"
+        time: "Saturday - 1:50 pm - 3:30 pm"
+
+    - name: "Kristen Thomas"
+      photo: "/img/kristen_thomas.jpg"
+      bio: "Kristen Thomas is a Relationship, Dating, and Sex Coach from Kansas City, MO. She helps people understand their sexual stories through education and conversation. She helps to educate the public about human sexuality through seminars and workshops. Supporting clients with embracing an authentic life, building self-love practices, allowing space for pleasure, and opening one’s heart are areas she enjoys focusing on to bring people closer together, physically and emotionally."
+      presentation:
+        title: "Sexual Healing (Session 2B)"
+        description: "A workshop designed to assist you in bringing out your feminine divine energy! Our feminine energy is an indicator of our overall vitality. Issues like shame from societal expectations, poor body image, female health issues, and our Me Too stories can all be affecting our sexual energy. We will discuss issues like sacred sexuality and tantra, pelvic floor health, taking ownership of our bodies, overcoming shame, poor relationship structures, and then we will have time for open discussion as a group."
         time: "Saturday - 1:50 pm - 3:30 pm"
 
     - name: "Break"
@@ -212,7 +224,10 @@ params:
 
     - name: "Barbara Courtney"
       photo: "/img/barbara_courtney.jpg"
-      bio: "Barbara Courtney Bio"
+      bio: "Barbara Courtney is the founder of C.O.I.P. (Children of Incarcerated Parents) The organization was created in 2012 and incorporated in 2013. Ms. Courtney has a Bachelor's degree in Social Work. She has been active in her community for more than 20 years. She has skills and expertise in crisis intervention, case management, social services, and individual /group counseling.
+She is a motivational speaker, and life coach for self-empowerment, Trauma informed trained.  Advocate for children of incarcerated parents,  domestic violence against individuals and families, , housing for ex-offenders.  She is a parent who knows about the criminal system. She decided to stop walking around the elephant in the room and to address the issues in her family and community.
+Her heart's desire is to change the writing on the wall and to empower children and youths to be healthy and productive citizens in their communities.
+"
       presentation:
         title: "The Womb of My Mother and Father"
         description: "Our journey of life begins in the womb.  Did our souls get fed the love, joy, and nourishment we needed for our journey?"
